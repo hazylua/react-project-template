@@ -1,5 +1,12 @@
 # Packages
 /node_modules
 
+# Environment
+*.env
+.env*
+
+# Distribution / Production
+/dist
+
 # VSCode
 /.vscode
